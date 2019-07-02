@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">PermissionsManager</string>
+    <string name="pmx_request_dialog_title">Permission Required</string>
+    <string name="pmx_btn_request_accept">Grant</string>
+    <string name="pmx_default_description">To continue, grant access to permissions prompted in next screen. It is required for normal functioning of the application.</string>
 </resources>

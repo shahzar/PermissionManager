@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">PermissionsApp</string>
+    <string name="permission_description">To continue, grant access to permissions prompted in next screen. It is required for normal functioning of the application.</string>
 </resources>

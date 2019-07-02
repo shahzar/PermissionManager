@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="pmx_margin_small">5dp</dimen>
+    <dimen name="pmx_margin_medium">10dp</dimen>
+    <dimen name="pmx_margin_large">25dp</dimen>
+    <dimen name="pmx_divider">0.1dp</dimen>
+    <dimen name="pmx_dialog_title">18sp</dimen>
+</resources>
