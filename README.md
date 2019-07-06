@@ -7,7 +7,7 @@ Kotlin library to handle Android Runtime permissions with bottom-sheet design.
 
 
 ## Gradle Dependency
-```
+```gradle
 dependencies {
     implementation 'com.shzlabs.permissionmanager:permissionmanager:0.1.0'
 }
@@ -15,7 +15,7 @@ dependencies {
 
 ##  Usage
 
-```
+```kotlin
 val permissionManager: PermissionManager = //...
 
 permissionManager = PermissionManager
@@ -30,7 +30,7 @@ permissionManager.ask()
 
 Invoke `PermissionManager.onRequestPermissionsResult` to handle callbacks
 
-```
+```kotlin
 override fun onRequestPermissionsResult(requestCode: Int, permissions: Array<out String>, grantResults: IntArray) {
     permissionManager.onRequestPermissionResult(requestCode, permissions, grantResults.toTypedArray())
 }
