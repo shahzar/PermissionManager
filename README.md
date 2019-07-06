@@ -3,6 +3,7 @@
 Kotlin library to handle Android Runtime permissions with bottom-sheet design.
 
 [ ![Download](https://api.bintray.com/packages/shahzar/PermissionManager/permissionmanager/images/download.svg) ](https://bintray.com/shahzar/PermissionManager/permissionmanager/_latestVersion)
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
 
 ## Gradle Dependency
